@@ -1,0 +1,2 @@
+# cdn
+use jsDelivr
