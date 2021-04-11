@@ -1,6 +1,7 @@
 # cdn
 
-use jsDelivr
+
+个人静态资源cdn,使用sDelivr
 
 示例：
 
